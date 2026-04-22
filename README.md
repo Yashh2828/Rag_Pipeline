@@ -73,6 +73,4 @@ Run the cells in order to:
 - If `GOOGLE_API_KEY` is missing, the notebook will raise a `ValueError`.
 - Ensure the PDF path in `.env` points to an existing file.
 
-## License
 
-Add your license here (e.g., MIT).
