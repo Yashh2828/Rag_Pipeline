@@ -1,0 +1,11 @@
+langchain==0.2.17
+langchain-community
+langchain-google-genai
+langchain-huggingface
+faiss-cpu
+pypdf
+python-dotenv
+sentence-transformers
+numpy
+google-generativeai
+ipywidgets
